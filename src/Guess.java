@@ -14,7 +14,7 @@ public class Guess {
         System.out.println(lvl.substring(pos, pos + 10));
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Github test!");
+        System.out.println("Return test!");
         System.out.println("Guess my number between 1-100!\nType anything to continue:");
         String input = scan.nextLine();
 
